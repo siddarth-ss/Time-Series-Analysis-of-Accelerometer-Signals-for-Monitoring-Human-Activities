@@ -1,0 +1,2 @@
+# Time-Series-Analysis-of-Accelerometer-Signals-for-Monitoring-Human-Activities
+This project analyzes the signal data recorded by sensors for monitoring various human activities such as walking, standing, running, climbing up and down using natural and horizontal visibility graphs. The aim of this project is to extract and interpret the time series features as well as their respective entropy and complexity and compare their results using scatter plots.
